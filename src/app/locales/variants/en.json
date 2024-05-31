@@ -1,0 +1,8 @@
+{
+    "code": "en",
+    "isRTL": "false",
+    "translations": {
+        "app-name": "NCore Web",
+        "description":"This is a NCore Web app."
+    }
+}
