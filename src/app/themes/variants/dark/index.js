@@ -7,7 +7,7 @@ const typography = {
     header1: {
         fontFamily: "Montserrat-Regular",
         lineHeight: 2,
-        fontSize: 50,
+        fontSize: 50
     },
     myFont: {
         fontFamily: "My-Font",

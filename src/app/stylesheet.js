@@ -12,6 +12,10 @@ const useStyle = createUseStyles({
         display: 'flex',
         padding: 20,
         gap: 10,
+    },
+    deneme: {
+        color: "green",
+        font: 100
     }
 });
 
